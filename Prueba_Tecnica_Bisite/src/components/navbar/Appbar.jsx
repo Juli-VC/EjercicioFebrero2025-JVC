@@ -8,7 +8,7 @@ import AppBar from "@mui/material/AppBar";
 
 export const Appbar = () => {
     return (
-        <AppBar position="fixed" sx={{ backgroundColor: 'black' }}>
+        <AppBar position="static" sx={{ backgroundColor: 'black' }}>
             <Toolbar>
                 <IconButton edge="start" color="inherit" aria-label="menu">
                     <MenuIcon />
