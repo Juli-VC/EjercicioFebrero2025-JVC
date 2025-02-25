@@ -1,5 +1,6 @@
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import './App.css'
+import '@fontsource/oswald/700.css';
 import { Home } from "./pages/Home";
 import { Projects } from "./pages/Projects";
 import { Regulations } from "./pages/Regulations";
